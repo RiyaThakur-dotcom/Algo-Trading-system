@@ -69,9 +69,7 @@ streamlit run app.py
 - **Email:** [riyakumari7104075@gmail.com](mailto:riyakumari7104075@gmail.com)
 
 
-MIT License
-Copyright (c) 2026 Riya Thakur
-Permission is hereby granted, free of charge, to any person obtaining a copy...
+
 
 
 

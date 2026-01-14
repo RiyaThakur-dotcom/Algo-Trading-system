@@ -28,6 +28,11 @@ A **Streamlit-based algorithmic trading platform** for analyzing stocks using te
 
 ---
 
+## 🌐 Live Demo
+🚀 Click here to explore the app:  
+👉 [Algorithmic Trading System – Live App](https://algo-trading-system-m3e3urfo8rtsmpqdvebgum.streamlit.app/)
+
+
 ## 💻 Installation
 
 1. **Clone the repository**
@@ -57,13 +62,18 @@ streamlit run app.py
 ![tj](https://github.com/user-attachments/assets/353cf693-2dac-42fe-8b0b-28d04c5a0a00)
 
 
-
-
-
 ## 🔗 Connect with Me
 
 - **LinkedIn:** [Riya Thakur](https://www.linkedin.com/in/riya-thakur-876571378)  
 - **GitHub:** [Algo-Trading-System](https://github.com/RiyaThakur-dotcom/Algo-Trading-system/tree/main)  
 - **Email:** [riyakumari7104075@gmail.com](mailto:riyakumari7104075@gmail.com)
+
+
+MIT License
+
+Copyright (c) 2026 Your Name
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
 
 

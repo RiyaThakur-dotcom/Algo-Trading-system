@@ -4,7 +4,7 @@ A **Streamlit-based algorithmic trading platform** for analyzing stocks using te
 
 ---
 
-## 🔹 Features
+## 🔹 Features 
 
 - Technical Indicators:
   - **SMA (20-day)**, **EMA (20-day)**

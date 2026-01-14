@@ -14,3 +14,15 @@ and machine learning for prediction, backtesting, and risk analysis.
 ## Run App
 streamlit run app.py
 
+## Preview
+![atss](https://github.com/user-attachments/assets/3bfad28b-3ad6-4d81-ae64-63c05cc1451c)
+
+
+
+## 🔗 Connect with Me
+
+- **LinkedIn:** [Riya Thakur](https://www.linkedin.com/in/riya-thakur-876571378)  
+- **GitHub:** [Algo-Trading-System](https://github.com/RiyaThakur-dotcom/Algo-Trading-system/tree/main)  
+- **Email:** [riyakumari7104075@gmail.com](mailto:riyakumari7104075@gmail.com)
+
+

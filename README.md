@@ -16,6 +16,10 @@ streamlit run app.py
 
 ## Preview
 ![atss](https://github.com/user-attachments/assets/3bfad28b-3ad6-4d81-ae64-63c05cc1451c)
+![sc](https://github.com/user-attachments/assets/c11fb8f0-bab7-4306-b352-2dd27d5dedf2)
+![tj](https://github.com/user-attachments/assets/353cf693-2dac-42fe-8b0b-28d04c5a0a00)
+
+
 
 
 

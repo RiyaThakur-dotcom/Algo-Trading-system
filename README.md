@@ -1,4 +1,4 @@
-# 📈 Algorithmic Trading & Research System
+# 📈 Algorithmic Trading & Research System  
 
 A **Streamlit-based algorithmic trading platform** for analyzing stocks using technical indicators, backtesting strategies, and price prediction with Prophet. Includes a mock broker simulation and trading journal.
 
